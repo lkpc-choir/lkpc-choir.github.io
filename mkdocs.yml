@@ -53,6 +53,14 @@ markdown_extensions:
       permalink: true
 
 plugins:
+  - exclude:
+      glob:
+        - drafts/*
+        - "*.tmp"
+        - "*.pdf"
+        - "*.gz"
+      regex:
+        - '.*\.(tmp|bin|tar)$'
   - search
   - roamlinks
 
