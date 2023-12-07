@@ -1,5 +1,6 @@
 ---
 share: "true"
+frontmatter: 이게 정식 제목이 되는거다.
 ---
 
 # 이게 있어야 되나?
