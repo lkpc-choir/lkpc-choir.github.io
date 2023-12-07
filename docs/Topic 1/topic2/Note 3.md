@@ -1,5 +1,7 @@
 # Note 3
 
+Example: link to [[Features/Mermaid Diagrams]] under `Features`
+
 """
 This function takes in a list of numbers and returns the sum of all the numbers.
 
