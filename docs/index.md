@@ -1,6 +1,6 @@
 # Obsidian Notes
 
-Publish your public notes with MkDocs
+Publish your public notes with MkDocs...
 
 ## Hello World!
 
