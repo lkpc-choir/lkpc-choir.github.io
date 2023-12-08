@@ -3,7 +3,7 @@ site_description: 큰빛교회 임마누엘 찬양대 관련 내용을 포함하
 site_author: 이성림
 
 nav:
-  - Foo: foo.md
+  - Features: /Features/
   - Bar: bar.md
 
 not_in_nav: |
