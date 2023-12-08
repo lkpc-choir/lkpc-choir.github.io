@@ -2,21 +2,9 @@ site_name: 큰빛교회 임마누엘 찬양대
 site_description: 큰빛교회 임마누엘 찬양대 관련 내용을 포함하는 사이트입니다. 
 site_author: 이성림
 
-nav:
-  - Features: /Features/
-  - Bar: bar.md
 
 not_in_nav: |
-  /private.md
-
-exclude_docs: |
   test.md
-  api-config.json    # A file with this name anywhere.
-  drafts/            # A "drafts" directory anywhere.
-  /requirements.txt  # Top-level "docs/requirements.txt".
-  *.py               # Any file with this extension anywhere.
-  !/foo/example.py   # But keep this particular file.
-
 
 theme:
   name: "material"
