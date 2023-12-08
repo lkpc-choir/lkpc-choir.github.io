@@ -3,8 +3,8 @@ site_description: 큰빛교회 임마누엘 찬양대 관련 내용을 포함하
 site_author: 이성림
 
 
-not_in_nav: |
-  test.md
+exclude_docs: |
+  drafts/
 
 theme:
   name: "material"
