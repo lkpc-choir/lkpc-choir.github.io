@@ -2,9 +2,9 @@ site_name: 큰빛교회 임마누엘 찬양대
 site_description: 큰빛교회 임마누엘 찬양대 관련 내용을 포함하는 사이트입니다. 
 site_author: 이성림
 
-# 이거 먹는데...
-# exclude_docs: |
-#  drafts/
+exclude_docs: |
+  .*
+  /templates/
 
 theme:
   name: "material"
