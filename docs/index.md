@@ -1,11 +1,6 @@
-# Obsidian Notes
+# Home
 
-Publish your public notes with MkDocs...
+큰빛교회 찬양대원 여러분 반갑습니다.  
+이 문서는 큰빛교회 찬양대에 관련한 `공지사항`과 여러 `자료`들을 모아놓은 곳입니다. 왼쪽 메뉴에서 원하는 항목을 선택하시면 해당 문서로 이동합니다.
+![햄버거 아이콘](/path/to/hamburger-icon.png)
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
